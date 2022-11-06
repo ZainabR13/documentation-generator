@@ -60,3 +60,4 @@ This tool is a *public* package on NPM, named [@barchart/documentation-generator
 ### License
 
 This software is provided under the MIT license.
+Hey!
